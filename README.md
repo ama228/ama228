@@ -1,15 +1,24 @@
 ### Hey, I'm Amar
 
-Python developer focused on building tools and libraries. I like working on parsers, CLI tooling, caching systems, and contributing to open source.
+Python developer working on AI/ML tooling and backend systems. I build practical libraries for RAG pipelines, LLM evaluation, prompt engineering, and code analysis.
 
 **What I work on:**
-- Backend systems and Python libraries
-- Parsing and tokenization (config formats, duration strings, query languages)
-- Connection pooling, caching, and performance
-- CLI tools and developer tooling
-- AI model training and evaluation
+- RAG pipelines, vector search, and hybrid retrieval systems
+- LLM evaluation frameworks (ROUGE-L, BLEU, code correctness, RLHF comparison)
+- Prompt engineering tooling and automated prompt testing
+- Static analysis and AI-assisted code review
+- Backend systems, connection pooling, caching, and CLI tools
 
-**Some things I've built:**
+**AI/ML Projects:**
+
+| Project | What it does |
+|---------|-------------|
+| [rag-pipeline](https://github.com/ama228/rag-pipeline) | RAG system with chunking, vector store, hybrid search, and retrieval |
+| [llm-eval](https://github.com/ama228/llm-eval) | LLM evaluation toolkit - ROUGE-L, BLEU, fuzzy match, code correctness, RLHF pairwise comparison |
+| [ai-code-reviewer](https://github.com/ama228/ai-code-reviewer) | AST-based Python code reviewer with complexity analysis and optional LLM integration |
+| [promptlab](https://github.com/ama228/promptlab) | Prompt template engine with variables, conditionals, runner with retries, and testing framework |
+
+**Python Libraries:**
 
 | Project | What it does |
 |---------|-------------|
@@ -23,9 +32,9 @@ Python developer focused on building tools and libraries. I like working on pars
 - [Textualize/rich](https://github.com/Textualize/rich) - Fixed Column class docstring
 - Also exploring httpx, click, arrow, pyparsing, sqlalchemy
 
-**Stack:** Python, pytest, SQLAlchemy, httpx, Click, asyncio, Git
+**Stack:** Python, pytest, RAG, LLM eval, vector search, AST analysis, SQLAlchemy, httpx, asyncio, Git
 
 ---
 
-Currently looking for remote contract work in AI training, code evaluation, and backend engineering.
+Currently looking for remote contract work in AI training, LLM evaluation, code generation, and backend engineering.
 Feel free to reach out.
